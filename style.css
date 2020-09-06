@@ -1,0 +1,56 @@
+.logo{
+    
+}
+.logo img{
+    display: inline;
+    width: 8%;
+    
+}
+.logo input{
+    width: 40%;
+    height: 40px;
+    border-radius: 30px;
+    border: 1px rgb(231, 231, 231) solid;
+    margin: 2%;
+}
+.icon .img{
+    display: inline;
+    margin: 5px;
+}
+hr{
+    border: 1px rgb(231, 231, 231) solid;
+}
+.container2{
+    margin-left: 10%;
+}
+.container2 p{
+    width:600px;
+}
+.Tutorial .p{
+    overflow:hidden;
+    width:250px;
+}
+.Hello-World .p{
+    width:250px;
+}
+.flex-con 
+{
+    margin-left: 10%;
+    display: flex;
+}
+.Getting-Started .p{
+    width:250px;
+}
+.Getting-Started .p{
+    width:250px;
+}
+.React-Component .p{
+    width:250px;
+}
+.React-App .p{
+    width:250px;
+}
+.Components .p{
+    width:250px;
+}
+
